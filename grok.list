@@ -1,9 +1,0 @@
-# SOURCE: https://grok.com/; https://docs.x.ai/
-# NAME: Grok
-# DESC: Grok web app and xAI API, account, console, and management services
-
-# Grok consumer application
-DOMAIN-SUFFIX,grok.com
-
-# xAI platform: inference API, console, accounts, documentation, and management API
-DOMAIN-SUFFIX,x.ai

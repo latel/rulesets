@@ -1,0 +1,12 @@
+# SOURCE: https://grok.com/; https://docs.x.ai/; https://huggingface.co/docs
+# NAME: AI
+# DESC: Grok/xAI and Hugging Face Hub, API, and Spaces services
+
+# Grok consumer application and xAI platform
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,x.ai
+
+# Hugging Face Hub, short URLs/CDN endpoints, and Spaces applications
+DOMAIN-SUFFIX,huggingface.co
+DOMAIN-SUFFIX,hf.co
+DOMAIN-SUFFIX,hf.space
